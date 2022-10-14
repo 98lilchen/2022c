@@ -1,6 +1,8 @@
 # 2022c
 資傳一甲的程式設計的程式倉庫
-#week06
+
+# week06
+
 考九九乘法
 ```cpp
 #include <stdio.h>
